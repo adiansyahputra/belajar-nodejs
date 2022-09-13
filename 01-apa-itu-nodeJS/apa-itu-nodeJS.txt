@@ -1,0 +1,36 @@
+NodeJs 
+"Node.js is a JavaScript runtime built on Chrome's V8 JavaScript
+Engine"
+|
+"An asynchronous event-driven JavaScript runtime, designed to build 
+scalable network applications"
+-nodejs.org 
+
+runtime? 
+Dimana kita menjalankan/mengeksekusi code kita
+
+Karakteristik NodeJS 
+1. Asynchronous & Event Driven 
+2. Non-Blocking 
+3. Single Threaded but Highly Scalable 
+4. Cross Platform 
+5. MIT Lisence 
+6. NPM
+
+Fitur Utama NodeJS 
+1. File System 
+2. Buffer -> kelola binary file 
+3. Http & Https 
+4. REPL 
+5. Console 
+6. Crypto 
+7. Zlib 
+
+NodeJS cocok untuk 
+-Dynamic Single Page application (SPA)
+-Realtime App (Chat, Multiplayer) 
+-API 
+-Streaming App
+-Microservice 
+-Command Line Tool 
+-MERN, MEAN, MEVN 
