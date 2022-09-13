@@ -1,0 +1,4 @@
+NodeJS is a runtime environment for executing JavaScript code
+
+Cara kerja NodeJS
+Asynchronous, Non-Blocking, Single Thread
