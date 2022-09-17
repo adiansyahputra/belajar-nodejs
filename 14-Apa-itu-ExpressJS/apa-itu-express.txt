@@ -1,0 +1,30 @@
+expressjs.com 
+"Fast, unopinionated, minimalist web framework for nodeJS." 
+
+ExpressJS 
+-Web App Framework yang dibuat diatas NodeJS 
+-Menyediakan antarmuka yang minimal untuk kakas yang 
+diperlukan dalam membuat sebuah aplikasi web. 
+-Membantu pengelolaan aliran data dari server ke aplikasi 
+MERN, MEAN, MEVN Stack (MongoDB, ExpressJS, React|
+Angular|Vue, NodeJS)
+
+Fitur ExpressJS 
+-Menangani request dengan berbagai metode HTTP dengan 
+mudah(Routes) 
+-MVC(Model-View-Controller) 
+-Terintegrasi dengan "view" rendering engine, untuk 
+mengelola template. 
+-Middleware
+
+Unopinionated 
+-Tidak ada aturan baku untuk membuat sesuatu 
+-Flexible 
+-Menentukan sendiri struktur aplikasi 
+-Bongkar pasang middleware
+
+Templating Engine 
+hbs
+
+Database
+mysql, MongoDB, postgresql
