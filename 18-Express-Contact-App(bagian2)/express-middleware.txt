@@ -1,0 +1,25 @@
+Middleware ? 
+"Sebuah software yang menghubungkan software atau aplikasi 
+lain" 
+
+Middleware 
+-Database 
+-Web Server 
+-Game Engine 
+-Web Application 
+
+Express Middleware 
+"Aplikasi Express itu sebenarnya berisi serangkaian 
+pemangggilan fungsi Middleware"
+
+fungsi Middleware 
+"Sebuah fungsi yang memiliki akses ke object request(req), 
+object response(res), dan fungsi middleware berikutnya(next,")
+
+Express Middleware 
+-User-defined middleware 
+--Application-level-middleware 
+--Router-level-middleware 
+--Error-handling middleware 
+-Built-in middleware 
+-Third-party middleware
