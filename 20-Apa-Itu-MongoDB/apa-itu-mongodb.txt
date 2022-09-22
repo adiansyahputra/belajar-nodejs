@@ -1,0 +1,38 @@
+Node + Express + DB 
+
+MongoDB 
+MongoDB adalah sebuah database berbasis dokumen yang memiliki 
+skalabilitas dan fleksibilitas yang kita inginkan dan juga memiliki 
+fitur query dan indexing yang kita butuhkan 
+
+Database Berbasis Dokumen 
+salah satu tipe dari NoSQL Database 
+
+NoSQL Database 
+- 'Not Only' SQL 
+-Schemaless / Flexible Schema 
+-Denormalization 
+-Non-relational Database 
+-Unstructured, semi-structured, structured data 
+
+Tipe NoSQL Database 
+-Key-value Store: --Redis 
+-Document Based: --MongoDB, CouchDB 
+-Column-oriented Database: --HBase, --Cassandra 
+-Graph Database: --Neo4J 
+
+Terminologi pada SQL vs NOSQL 
+
+SQL 
+-database, table, satubarisdata (row/record), colomn/field
+
+NoSQL 
+-database, collection, satubarisdata document, field 
+
+Konsep Embedded Document (Denormalization) 
+data tambahan
+
+Kenapa MongoDB ?
+-JSON(BSON) -> binary
+-JavaScript 
+-MERN, MEVN, MEAN
